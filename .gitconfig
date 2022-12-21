@@ -1,0 +1,12 @@
+[gui]
+	recentrepo = C:/Users/mahes/Music/Reddy
+	recentrepo = C:/Users/mahes/Downloads/Mahi
+[credential "https://git-codecommit.us-west-2.amazonaws.com"]
+	provider = generic
+[credential "https://git-codecommit.us-east-1.amazonaws.com"]
+	provider = generic
+[init]
+	defaultbranch = main
+[user]
+	email = maheshsingareddy020@gmail.com
+	name = maheshreddy
